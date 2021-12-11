@@ -1,0 +1,16 @@
+{
+    "token": "",
+    "prefix": "/",
+    "dona": "290092310002270218", 
+    "db_name": "",
+    "db_user": "",
+    "db_pass": "",
+    "host": "https://link.do.painel/",
+    "api": "chave-da-api",
+    "server1": "id-do-sv",
+    "server2": "id-do-sv",
+    "bungee": "id-do-sv",
+    "lobby": "id-do-sv",
+    "factions": "id-do-sv",
+    "factionsv2": "id-do-sv"
+}
